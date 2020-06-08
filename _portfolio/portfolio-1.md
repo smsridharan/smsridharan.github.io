@@ -1,6 +1,6 @@
 ---
 title: "A Royal Sequence: Adaptive Evolution in the Monarch Butterfly, America’s Insect"
-excerpt: "Written for UWP111C: Science Journalism, UC Davis <br/><img src='/images/monarch.jpg'>"
+excerpt: "Written for UWP111C: Science Journalism, UC Davis <br/><img src='/images/monarch.JPG'>"
 collection: portfolio
 ---
 A ground-breaking 2019 study led by UC Berkeley’s Noah Whiteman elucidated how the monarch butterfly has conferred its ability to feed off of milkweed, a poisonous plant that is harmful to nearly all other species. Researchers have been able to deduce how the monarch found its ecological niche by identifying three key amino acids substitutions in CRISPR-based “monarch flies.” The novel marriage between the purviews of molecular biology and fruit fly genetics in this study not only helps us better understand America’s national insect but also shows incredible promise for future research at the interface of evolutionary biology and CRISPR technology. 
