@@ -3,6 +3,7 @@ title: Frogs in Hot Water: The World’s Most Dangerous Panzootic and its Effect
 excerpt: "Written for UWP111C: Science Journalism, UC Davis <br/><img src='/images/monarch.jpg'>"
 collection: portfolio
 ---
+
 The Batrachomyomachia or “The Battle of Frogs and Mice” is a famous story from antiquity. Psycharpax, the Mouse Prince, escapes a cat’s clutches and seeks aid from Physignathus, the Frog King. Physignathus offers Psycharpax passage across the lake on his back, but suddenly, a water snake appears. In the tussle, Physignathus forgets about Psycharpax, leading to the latter’s death. One of Psycharpax’s subjects witnesses the prince’s death, assumes it was premeditated murder, and a one-day war ensues between the mice and frogs; even the Greek Gods are involved. Although the mice initially prevail, the frogs come out victorious in the end — at a cost. 
 
 The frog denouncing ere he breathed his last;
