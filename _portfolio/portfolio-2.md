@@ -1,5 +1,5 @@
 ---
-title: Frogs in Hot Water: The World’s Most Dangerous Panzootic and its Effect on Amphibian Biodiversity"
+title: "Frogs in Hot Water: The World’s Most Dangerous Panzootic and its Effect on Amphibian Biodiversity"
 excerpt: "Written for UWP111C: Science Journalism, UC Davis <br/><img src='/images/monarch.jpg'>"
 collection: portfolio
 ---
@@ -18,6 +18,7 @@ The amphibian’s contributions to science and medicine are self-evident, but in
 What could possibly devastate biodiversity at such a scale? The answer lies at the intersection of ecology, genetics, epidemiology, and a great deal of bad luck. 
 
 **The Chytrid Fungus** 
+
 The story starts more than 150 years ago. The first documented case of the fungus Batrachochytrium dendrobatids (Bd) was recorded in 1863 in the Titicaca water frog. Described as having fungal spots, scientists remained puzzled but unconcerned about its bizarre appearance. Then, in 1993, scientists in Western Australia began to survey dead and dying frogs formally classifying the chytrid fungus. 
 
 Bd is transmitted through water borne zoospores. Once they land on a host they multiply. Amphibians slowly become more lethargic and their skin peels off. It is a slow and painful death. For creatures that rely so heavily on their skin for evapotranspiration — “sweat for frogs” — one that is particularly devastating. 
@@ -31,6 +32,7 @@ Scientists initially believed that the chytrid fungus was attributed to a single
 Much of what scientists are able to learn because of the chytrid fungus lies in the advent of new technological perspectives to study it. Researchers began to focus on three main questions: how do we characterize the diversity of the chytrid fungus, when did this panzootic emerge, and what causes are expediting its diversity and virulence?
 
 **Fungal Origins** 
+
 The expansion of BdGPL in the 20th century coincides with historical evidence showing the rise of amphibian transport for exotic pet, medical, and food purposes. Findings point to East Asia, mainly the Korean Peninsula, as the geographic hot spot for the disease’s emergence. BdASIA-1 exhibits the hallmarks of an ancestral population that seeded the pandemic. Pairwise comparisons among Bd samples show that the average number of segregating sites among BdASIA samples is higher than any other lineage. In other words, BdASIA samples branch off into their own strains higher than any other geographic family of the chytrid fungus. 
 
 But simply knowing where the fungus originated was not enough. Researchers at the Rosenblum lab were keen to separate the broad geographic lineages into something finer in scale. While BdGPL is globally distributed, and accounts for most of the cases, specific strains within geographic isolates provide more clarity into fungal similarities and differences. For example, BdCAPE is not only widely found in the African continent, but also found in samples collected in the United Kingdom. Similarly, there are grave similarities between samples collected in Asia and those in Brazil. These classifications do more than tell us about where these samples came from — they also tell us where they are going.
