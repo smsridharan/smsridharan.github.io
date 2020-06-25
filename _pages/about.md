@@ -16,3 +16,4 @@ I graduated from the University of California, Davis with a B.S. in Genetics and
 
 My love for scientific research is only rivalled by my passion for writing and scientific communication. I aspire to a career in research and science journalism, hoping to write nonfiction literature for young adults. In 2019, I was awarded the Norma J. Lang Prize for my review paper on radiomics techniques in ultrasonography. That same year I worked with UC Davis History Professor Ellen Hartigan-O’Connor in 2019 year on an independent research project _Women in Science in America: A Wikipedia Project_, in which I wrote peer-reviewed Wikipedia articles about female scientists lost to history. I am currently interning with the Siegel Lab to copyedit their open-source lab manual for educators. 
 
+Outside of the lab and classroom I am a passionate singer and consumer of South Indian Classical (Carnatic) music, voracious reader (mostly nonfiction), and board game enthusiast. 
