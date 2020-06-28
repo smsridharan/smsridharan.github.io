@@ -1,5 +1,6 @@
 ---
 title: "Frogs in Hot Water: The World’s Most Dangerous Panzootic and its Effect on Amphibian Biodiversity"
+date: 2020-05-22
 excerpt: "Written for UWP111C: Science Journalism, UC Davis <br/><img src='/images/frog.JPG'>"
 collection: portfolio
 ---
