@@ -1,5 +1,6 @@
 ---
 title: "A Royal Sequence: Adaptive Evolution in the Monarch Butterfly, America’s Insect"
+date: 2020-05-01
 excerpt: "Written for UWP111C: Science Journalism, UC Davis <br/><img src='/images/monarch.JPG'>"
 collection: portfolio
 ---
